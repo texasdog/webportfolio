@@ -1,8 +1,8 @@
 # **NikSH-herzen.github.io**
 ## *Welcome to this page*
-### Списки
+### Pages
 
-Для разметки или `*`, или `-`, или `+`:
+For this
 
 - Hello
 - World
