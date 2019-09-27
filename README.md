@@ -23,5 +23,7 @@ print(g*8)
 ```
 
 Здесь находятся лабораторные по вебу:
+
 1) Лабораторная 1 по JS -- ![Лаба](Screenshot_1.png "Лаба")
+
 2) Лабораторная XMl и DTD -- https://github.com/NikitaSH-herzen/labXML
