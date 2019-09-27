@@ -6,7 +6,7 @@
 -PascalABC
 -github pages
 ### My id
-Vk -- [](https://vk.com/kiwunaka)
+[Vkontakte](https://vk.com/kiwunaka)
 ### Hello it's me
 ![Кальян в радость, чай в сладость](калик.jpg "Фоточка")
 
@@ -23,5 +23,5 @@ print(g*8)
 ```
 
 Здесь находятся лабораторные по вебу:
-1) Лабораторная XMl и DTD -- https://github.com/NikitaSH-herzen/labXML
-2) Лабораторная 1 по JS -- https://github.com/NikitaSH-herzen/webportfolio
+1) Лабораторная 1 по JS -- ![Лаба](Screenshot_1.png "Лаба")
+2) Лабораторная XMl и DTD -- https://github.com/NikitaSH-herzen/labXML
