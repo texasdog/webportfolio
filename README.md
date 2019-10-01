@@ -26,4 +26,4 @@ print(g*8)
 
 1) Лабораторная 1 по JS -- ![Лаба](Screenshot_1.png "Лаба")
 
-2) Лабораторная XMl и DTD -- https://github.com/NikitaSH-herzen/labXML
+2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
