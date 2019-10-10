@@ -29,3 +29,8 @@ print('Сумма данных чисел =', sum(lst1))
 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
 	
 ##	Здесь находятся лабораторные по ПРОГ:
+
+1) [Лабораторная 1](https://github.com/NikitaSH-herzen/labXML)
+2) [Лабораторная 2](https://github.com/NikitaSH-herzen/labXML)
+3) [Лабораторная 3](https://github.com/NikitaSH-herzen/labXML)
+4) [Лабораторная Герон](https://github.com/NikitaSH999/ProgLabGeron)
