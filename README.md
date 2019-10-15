@@ -9,7 +9,7 @@
 [Vkontakte](https://vk.com/kiwunaka)
 ### Hello it's me
 
-<img src="калик.jpg" width="200" height="200" />
+<img src="калик.jpg" width="500" height="600" />
 
 ## Решение Задачи на Питоне
 
