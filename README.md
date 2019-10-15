@@ -25,13 +25,13 @@ print('Сумма данных чисел =', sum(lst1))
 
 ## Здесь находятся лабораторные по вебу:
 
-1) [Лабораторная 1 по JS](https://github.com/NikitaSH999/webportfolio/blob/master/Screenshot_1.png)
+1) [Лабораторная 1 по JS](Screenshot_1.png)
 
 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
 	
 ##	Здесь находятся лабораторные по ПРОГ:
 
-1) [Лабораторная 1](https://github.com/NikitaSH999/webportfolio/blob/master/Lab1.py)
+1) [Лабораторная 1](Lab1.py)
 2) [Лабораторная 2](https://repl.it/@NikitaShimko/LR-2)
 3) [Лабораторная 3](https://repl.it/@NikitaShimko/sss)
 4) [Лабораторная Герон](https://github.com/NikitaSH999/ProgLabGeron)
