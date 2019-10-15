@@ -4,7 +4,7 @@
 #### [Python](https://www.python.org)
 #### [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
 #### [PascalABC](http://pascalabc.net)
-#### [Github Pages]
+#### [Github Pages](https://github.com)
 ### My id
 [Vkontakte](https://vk.com/kiwunaka)
 ### Hello it's me
@@ -29,7 +29,7 @@ print('Сумма данных чисел =', sum(lst1))
 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
 3) [Лабоаторная неделя 6](BugDRg9KKkE.jpg)
 	
-##	Здесь находятся лабораторные по ПРОГ:
+## Здесь находятся лабораторные по ПРОГ:
 
 1) [Лабораторная 1](Lab1.py)
 2) [Лабораторная 2](https://repl.it/@NikitaShimko/LR-2)
