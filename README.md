@@ -26,8 +26,8 @@ print('Сумма данных чисел =', sum(lst1))
 ## Здесь находятся лабораторные по вебу:
 
 1) [Лабораторная 1 по JS](Screenshot_1.png)
-
 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
+3) [Лабоаторная неделя 6](BugDRg9KKkE.jpg)
 	
 ##	Здесь находятся лабораторные по ПРОГ:
 
@@ -35,3 +35,4 @@ print('Сумма данных чисел =', sum(lst1))
 2) [Лабораторная 2](https://repl.it/@NikitaShimko/LR-2)
 3) [Лабораторная 3](https://repl.it/@NikitaShimko/sss)
 4) [Лабораторная Герон](https://github.com/NikitaSH999/ProgLabGeron)
+5) [Лабораторная Герон Фукц](https://github.com/NikitaSH999/ProgLabGeronFunc)
