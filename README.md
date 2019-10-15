@@ -31,7 +31,7 @@ print('Сумма данных чисел =', sum(lst1))
 	
 ##	Здесь находятся лабораторные по ПРОГ:
 
-1) [Лабораторная 1](https://github.com/NikitaSH-herzen/labXML)
-2) [Лабораторная 2](https://github.com/NikitaSH-herzen/labXML)
-3) [Лабораторная 3](https://github.com/NikitaSH-herzen/labXML)
+1) [Лабораторная 1](https://github.com/NikitaSH999/webportfolio/blob/master/Lab1.py)
+2) [Лабораторная 2](https://repl.it/@NikitaShimko/LR-2)
+3) [Лабораторная 3](https://repl.it/@NikitaShimko/sss)
 4) [Лабораторная Герон](https://github.com/NikitaSH999/ProgLabGeron)
