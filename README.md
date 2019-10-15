@@ -8,7 +8,8 @@
 ### My id
 [Vkontakte](https://vk.com/kiwunaka)
 ### Hello it's me
-![Кальян в радость, чай в сладость](калик.jpg "Фоточка")
+
+<img src="калик.jpg" width="200" height="200" />
 
 ## Решение Задачи на Питоне
 
