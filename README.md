@@ -25,7 +25,7 @@ print('Сумма данных чисел =', sum(lst1))
 
 ## Здесь находятся лабораторные по вебу:
 
-1) [Лабораторная 1 по JS](https://github.com/NikitaSH999/webportfolio/blob/master/Screenshot_1.png) -- ![Лаба](Screenshot_1.png "Лаба")
+1) [Лабораторная 1 по JS](https://github.com/NikitaSH999/webportfolio/blob/master/Screenshot_1.png)
 
 2) [Лабораторная XMl и DTD](https://github.com/NikitaSH-herzen/labXML)
 	
