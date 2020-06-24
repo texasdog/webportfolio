@@ -1,11 +1,11 @@
-## Шимко Никита
+## Анисимов Андрей
 #### [Python](https://www.python.org)
 #### [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
 #### [PascalABC](http://pascalabc.net)
 #### [Github Pages](https://github.com)
 ### My id
-[Vkontakte](https://vk.com/kiwunaka)
-### <img src="калик.jpg" width="500" height="600" />
+[Vkontakte](https://vk.com/svanexnesu)
+### <img src="boomer.jpg" width="500" height="600" />
 
 ## Решение Задачи на Питоне
 ```python
