@@ -1,5 +1,6 @@
 ## Анисимов Андрей
 #### [Python](https://www.python.org)
+#### [C++](https://www.cplusplus.com/)
 #### [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
 #### [PascalABC](http://pascalabc.net)
 #### [Github Pages](https://github.com)
