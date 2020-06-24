@@ -5,7 +5,7 @@
 #### [Github Pages](https://github.com)
 ### My id
 [Vkontakte](https://vk.com/svanexnesu)
-### <img src="dogs.jpg" width="400" height="600" />
+### <img src="dogs.jpg" width="450" height="600" />
 
 ## Решение Задачи на Питоне
 ```python
