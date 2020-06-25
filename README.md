@@ -18,11 +18,25 @@ lst1 = lst[::2]
 print(lst1)
 print('Сумма данных чисел =', sum(lst1))
 ```
-## Здесь находятся лабораторные по вебу:
-
-#### 1) [Лабораторная 1 по JS](Screenshot_1.png)
-#### 2) [Лабораторная XMl и DTD]()
-#### 3) [Лабоаторная неделя 6](BugDRg9KKkE.jpg)
+## Здесь находятся лабораторные по вебу из moodle:
+#### [Node JS]()
+#### [XML и DTD](https://github.com/texasdog/webportfolio/tree/master/Web/js1dtd)
+#### [XSD](https://github.com/texasdog/webportfolio/blob/master/Web/JS2/Lab2XSD.md)
+#### [XSL](https://github.com/texasdog/webportfolio/blob/master/Web/JS3/XSLresult.md)
+#### [Введение в функции JS](https://github.com/texasdog/webportfolio/blob/master/Web/JS3/result.md)
+#### [Функции и Зависимости](https://github.com/texasdog/webportfolio/blob/master/Web/JS4/result.md)
+#### [babel и flow](https://github.com/texasdog/webportfolio/blob/master/Web/JS5/result.md)
+#### [Каррирование](https://github.com/texasdog/webportfolio/blob/master/Web/JS6/result.md)
+#### [Строки и массивы](https://github.com/texasdog/webportfolio/blob/master/Web/JS7/result.md)
+#### [Объекты и Fetch](https://github.com/texasdog/webportfolio/blob/master/Web/JS8.md)
+#### [Fetch и деструктуризация](https://github.com/texasdog/webportfolio/blob/master/Web/JS9/result.md)
+#### [Промисы и async/await](https://github.com/texasdog/webportfolio/blob/master/Web/JS10/result.md)
+#### [Введение в DOM](https://github.com/texasdog/webportfolio/blob/master/Web/JS11/result.md)
+#### [Cобытия и iRemove](https://github.com/texasdog/webportfolio/blob/master/Web/JS12/result.md)
+#### [Объекты и Прототипы](https://github.com/texasdog/webportfolio/blob/master/Web/JS13/result.md)
+#### [Веб-сервер на модуле http](https://github.com/texasdog/webportfolio/blob/master/Web/JS14/result.md)
+#### [middleware и серверная шаблонизация](https://github.com/texasdog/webportfolio/blob/master/Web/JS15/result.md)
+#### [Работа со статическими файлами](https://github.com/texasdog/webportfolio/blob/master/Web/JS16/result.md)
 	
 ## Здесь находятся лабораторные по ПРОГ:
 
