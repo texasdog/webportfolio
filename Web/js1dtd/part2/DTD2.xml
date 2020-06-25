@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!ELEMENT nikitag (nikihead?,nikibody?)>
+<!ELEMENT nikihead (nikiradius?)>
+<!ELEMENT nikiradius (#PCDATA)>
+<!ELEMENT nikibody (nikiweith?, nikibirthdate?, nikigender?)>
+<!ELEMENT nikiweith (#PCDATA)>
+<!ELEMENT nikibirthdate (#PCDATA)>
+<!ELEMENT nikigender (#PCDATA)>

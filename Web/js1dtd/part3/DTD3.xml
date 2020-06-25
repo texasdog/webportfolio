@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!ELEMENT url (frequentIP, platformsPC, platformsMOB, ips)>
+<!ELEMENT frequentIP (#PCDATA)>
+
+<!ELEMENT platformsPC (Windows?, Linux?, MacOS?)>
+<!ELEMENT Windows (#PCDATA)>
+<!ELEMENT Linux (#PCDATA)>
+<!ELEMENT MacOS (#PCDATA)>
+
+<!ELEMENT platformsMOB (iPhone?, Android?)>
+<!ELEMENT iPhone (#PCDATA)>
+<!ELEMENT Android (#PCDATA)>
+
+<!ELEMENT ips (ip+)>
+<!ELEMENT ip EMPTY>
+<!ATTLIST ip 
+  addr CDATA #REQUIRED
+  frequency CDATA #REQUIRED>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!DOCTYPE nikitag PUBLIC "kodaktor.ru" 
+"http://kodaktor.ru/x/unsafe_1c89b"> 
+<nikitag>  
+  <nikihead>
+      <nikiradius>
+    	7cm
+      </nikiradius>
+  </nikihead> 
+	<nikibody>
+      <nikiweith>
+        72kg
+      </nikiweith>
+      <nikibirthdate>
+       	14/08/1997
+      </nikibirthdate>
+      <nikigender>
+        Male
+      </nikigender>
+	</nikibody> 
+</nikitag>

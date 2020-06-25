@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!DOCTYPE url PUBLIC "NikitaPO" 
+"http://kodaktor.ru/x/dtd_0cf6a"> 
+<url>  
+  <frequentIP>077.234.203.101</frequentIP>
+  <platformsPC>
+    <Windows>22</Windows>
+    <Linux>14</Linux>
+    <MacOS>29</MacOS>
+  </platformsPC>
+  <platformsMOB>
+    <iPhone>13</iPhone>
+    <Android>23</Android>
+  </platformsMOB>
+  <ips>
+    <ip addr="077.234.203.101" frequency="11"/>
+    <ip addr="005.018.239.169" frequency="9"/>
+    <ip addr="095.213.218.035" frequency="7"/>
+    <ip addr="083.102.198.041" frequency="6"/>
+    <ip addr="078.037.140.237" frequency="5"/>
+  </ips>
+</url>
